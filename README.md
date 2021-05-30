@@ -1,4 +1,4 @@
-# python-discord-pixels
+# pixels2501
 Pixels is a collaborative canvas, where users paint pixel by pixel, by POSTing co-ordinates and a colour code to an API.
 
 ## Webpage 
